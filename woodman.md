@@ -2,7 +2,7 @@
 title: "Woodman - Guide Complet Claude Code & Speckit"
 description: "Guide de référence rapide pour Claude Code et Speckit avec raccourcis, commandes et workflows"
 version: "1.0.0"
-created: "2025-11-17T10:27:39.230Z"
+created: "2025-11-17T12:04:23.877Z"
 logo: "woodman.png"
 logo_mini: "woodman-mini.png"
 tags: ["woodman", "claude-code", "speckit", "cheatsheet", "référence"]
